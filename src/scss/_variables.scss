@@ -1,0 +1,45 @@
+$primary-100: #0000b3;
+$primary-90: #0000c1;
+$primary-80: #0d0dcf;
+$primary-70: #2828db;
+$primary-60: #4444e5;
+$primary-50: #6363ee;
+$primary-40: #8282f4;
+$primary-30: #a1a1f8;
+$primary-20: #c1c1fc;
+$primary-10: #e0e0fe; 
+
+$neutral-0: #fff;
+
+$neutral-90: #1f2730;
+$neutral-80: #415053;
+$neutral-70: #637587;
+$neutral-60: #8396aa;
+$neutral-50: #9fb2c5;
+$neutral-40: #b8c9d9;
+$neutral-30: #cedbe9;
+$neutral-20: #e1eaf4;
+$neutral-10: #f1f6fb;
+$neutral-0: #fff;
+
+$secondary-100: #5140ae;
+$secondary-90: #5d4ac7;
+$secondary-80: #6853e0;
+$secondary-70: #745cf9;
+$secondary-60: #826cfa;
+$secondary-50: #907dfa;
+$secondary-40: #9e8dfb;
+$secondary-30: #ac9dfb;
+$secondary-20: #baaefc;
+$secondary-10: #c7befd;
+
+$spacing: 8px;
+$radius: 4px;
+
+.overflow {
+    overflow: hidden !important;
+}
+
+.blur {
+    filter: blur(3px);
+}
